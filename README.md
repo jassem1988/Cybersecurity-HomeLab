@@ -1,4 +1,4 @@
-# Cybersecurity-HomeLab
+# Cybersecurity-HomeLab (source: https://projectsecurity.teachable.com)
 
 ## Objective
 
